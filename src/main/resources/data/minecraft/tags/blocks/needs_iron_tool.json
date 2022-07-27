@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+
+    "km:bronze_ore",
+    "km:bronze_block"
+
+  ]
+}

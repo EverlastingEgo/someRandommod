@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "km:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "km:bronze",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "km:bronze"
+    }
+  },
+  "result": {
+    "item": "km:bronze_block"
+  }
+}

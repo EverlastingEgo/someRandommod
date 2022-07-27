@@ -25,7 +25,7 @@ public class ModBlocks {
     //Blocks
     public static final RegistryObject<Block> BRONZE_ORE = registerBlock("bronze_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(5F).requiresCorrectToolForDrops()), ModCreativeModeTab.KENNAYE_TAB);
+                    .strength(4F).requiresCorrectToolForDrops()), ModCreativeModeTab.KENNAYE_TAB);
 
     public static final RegistryObject<Block> BRONZE_BLOCK = registerBlock("bronze_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
@@ -58,4 +58,6 @@ public class ModBlocks {
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);
     }
+
+
 }
