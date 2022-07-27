@@ -13,6 +13,8 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, KennayeMod.MOD_ID);
 
 
+    public static final RegistryObject<Item> RAW_BRONZE = ITEMS.register("raw_bronze",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.KENNAYE_TAB)));
     public static final RegistryObject<Item> BRONZE = ITEMS.register("bronze",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.KENNAYE_TAB)));
 
