@@ -1,6 +1,7 @@
 package net.kennaye.km;
 
 import com.mojang.logging.LogUtils;
+import net.kennaye.km.block.ModBlocks;
 import net.kennaye.km.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -33,6 +34,7 @@ public class KennayeMod
 
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        ModBlocks.register(eventBus);
         ModItems.register(eventBus);
 
         eventBus.addListener(this::setup);

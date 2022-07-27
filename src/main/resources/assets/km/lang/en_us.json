@@ -1,5 +1,10 @@
 {
-  "item.km.bronze": "Bronze",
+
+  "block.km.bronze_ore": "Bronze Ore",
+  "block.km.bronze_block": "Bronze Block",
+
+
+  "item.km.bronze": "Bronze Ingot",
 
   "itemGroup.kennayetab": "Kennaye Mod"
 }
