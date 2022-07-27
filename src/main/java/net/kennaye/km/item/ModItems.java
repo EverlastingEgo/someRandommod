@@ -13,8 +13,10 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, KennayeMod.MOD_ID);
 
 
-    public static final RegistryObject<Item> BRICK = ITEMS.register("brick",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+    public static final RegistryObject<Item> BRONZE = ITEMS.register("bronze",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.KENNAYE_TAB)));
+
+
 
 
 
