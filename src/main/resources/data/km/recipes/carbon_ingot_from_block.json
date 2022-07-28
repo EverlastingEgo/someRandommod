@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "km:carbon_block"
+    }
+  ],
+  "result": {
+    "item": "km:carbon",
+    "count": 9
+  }
+}

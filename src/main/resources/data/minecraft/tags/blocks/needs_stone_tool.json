@@ -2,5 +2,8 @@
   "replace": false,
   "values": [
 
+    "km:carbon_ore",
+    "km:carbon_block"
+
   ]
 }

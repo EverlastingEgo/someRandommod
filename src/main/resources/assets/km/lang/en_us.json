@@ -1,11 +1,17 @@
 {
 
+  "block.km.carbon_ore": "Carbon Ore",
+  "block.km.carbon_block": "Carbon Block",
   "block.km.bronze_ore": "Bronze Ore",
   "block.km.bronze_block": "Bronze Block",
 
-
+  "item.km.raw_carbon": "Raw Carbon",
+  "item.km.carbon": "Carbon Ingot",
   "item.km.raw_bronze": "Raw Bronze",
   "item.km.bronze": "Bronze Ingot",
+
+  "item.km.start_sword": "Starter Sword",
+  "item.km.great_sword": "Greatsword",
 
   "itemGroup.kennayetab": "Kennaye Mod"
 }

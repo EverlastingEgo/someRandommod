@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "km:carbon"
+    }
+  },
+  "result": {
+    "item": "km:carbon_block"
+  }
+}

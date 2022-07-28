@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "km:bronze_ore",
-    "km:bronze_block"
+    "km:bronze_block",
+    "km:carbon_ore",
+    "km:carbon_block"
+
   ]
 }

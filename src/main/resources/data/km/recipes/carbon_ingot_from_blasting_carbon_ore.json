@@ -1,9 +1,9 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "km:raw_bronze"
+    "item": "km:raw_carbon"
   },
-  "result": "km:bronze",
+  "result": "km:carbon",
   "experience": 0.2,
   "cookingtime": 100
 }

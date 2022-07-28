@@ -23,6 +23,15 @@ public class ModBlocks {
 
 
     //Blocks
+    public static final RegistryObject<Block> CARBON_ORE = registerBlock("carbon_ore",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(3F).requiresCorrectToolForDrops()), ModCreativeModeTab.KENNAYE_TAB);
+
+    public static final RegistryObject<Block> CARBON_BLOCK = registerBlock("carbon_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6.2F).requiresCorrectToolForDrops()), ModCreativeModeTab.KENNAYE_TAB);
+
+
     public static final RegistryObject<Block> BRONZE_ORE = registerBlock("bronze_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4F).requiresCorrectToolForDrops()), ModCreativeModeTab.KENNAYE_TAB);
