@@ -10,9 +10,18 @@
   "item.km.raw_bronze": "Raw Bronze",
   "item.km.bronze": "Bronze Ingot",
 
-  "item.km.start_sword": "Starter Sword",
-  "item.km.great_sword": "Greatsword",
-  "item.km.start_hammer": "Starter Hammer",
+  "item.km.start_sword": "Training  Sword",
+  "item.km.great_sword": "Training Greatsword",
+  "item.km.start_hammer": "Training  Hammer",
+
+  "item.km.tiger_spawn_egg": "Tiger Spawn Egg",
+  "entity.km.tiger": "Tiger",
+
+
+  "item.km.rogue_armor1_helmet": "Rogue Hood",
+  "item.km.rogue_armor1_body": "Rogue Robe",
+  "item.km.rogue_armor1_legs": "Rogue Leggings",
+  "item.km.rogue_armor1_feet": "Rogue Boots",
 
   "itemGroup.kennayetab": "Kennaye Mod"
 }

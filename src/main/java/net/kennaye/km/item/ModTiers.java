@@ -17,4 +17,9 @@ public class ModTiers {
             4f,0, BlockTags.NEEDS_IRON_TOOL,
             () -> Ingredient.of(ModItems.BRONZE.get()));
 
+
+    public static final ForgeTier PJ = new ForgeTier(3,650,-1.6f,
+            7f,0, BlockTags.NEEDS_IRON_TOOL,
+            () -> Ingredient.of(ModItems.BRONZE.get()));
+
 }
