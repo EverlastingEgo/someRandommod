@@ -1,5 +1,5 @@
 {
-  "type": "km:entity.km.tiger",
+  "type": "minecraft:entity",
   "pools": [
     {
       "rolls": 1.0,
@@ -69,7 +69,7 @@
               }
             }
           ],
-          "name": "km:raw_tiger_beef"
+          "name": "km:raw_tiger_meat"
         }
       ]
     }
